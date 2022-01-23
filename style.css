@@ -1,0 +1,105 @@
+.navbar{
+    background-color: #333;
+}
+
+.navbar ol{
+    
+    list-style-type: none;
+    display: inline-block;
+}
+.crumb a{
+    
+    text-decoration: none;
+    padding: 7px;
+    color: #fff;
+}
+.crumb{
+    display: inline-block;
+}
+.intro{
+    background-image: url('img1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+  }
+  .intro h1{
+      padding: 2rem;
+      color: black;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 47px;
+
+}
+.intro p{
+    font-size: 20px;
+    margin-left: 2rem;
+    margin-right: 25rem;
+
+}
+.read-more a{
+    text-decoration: none;
+}
+.read-more{
+    position: relative;
+    left: 35rem;
+    padding: 0.9rem;
+}
+.get{
+    align-content: center;
+    text-align: center;
+}
+.get h2{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.about{
+    background-color: #333;
+    padding: 00.5rem;
+    text-align: center;
+    color: azure;
+}
+.about h2{
+    font-size: 35px;
+}
+.about p{
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-bottom: 5rem;
+  font-size: 20px;
+}
+.cont{
+    background-color: dodgerblue;
+    padding: 0.5rem;
+    text-align: center;
+    color: floralwhite;
+    line-height: 21.5px;
+}
+.cont h2{
+    font-size: 35px;
+}
+.cont p{
+    margin-left: 15rem;
+    margin-right: 15rem;
+    font-size: 20px;
+}
+.cont a{
+    text-decoration: none;
+    color: floralwhite;
+
+}
+a:hover{
+    color: red;
+}
+.footer{
+    font-size: 17px;
+    color: blanchedalmond;
+    background-color: #333;
+    padding: 0.5rem;
+    text-align: center;
+}
